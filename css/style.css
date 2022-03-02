@@ -156,6 +156,14 @@ body {
 	width: 100%;
 	padding: 0.375em;
 }
+::-moz-selection {
+	background-color: #3c751a;
+	color: #d3ecc4;
+}
+::selection {
+	background-color: #3c751a;
+	color: #d3ecc4;
+}
 @media all and (max-width: 1101px) {
 	.money__item {
 		grid-template-columns: 1fr 1fr 1.8fr 1fr 1fr;
