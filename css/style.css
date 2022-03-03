@@ -170,9 +170,6 @@ body {
 	}
 }
 @media all and (max-width: 768px) {
-	body {
-		background-position: 50% 77%;
-	}
 	.money__table {
 		display: -webkit-box;
 		display: -ms-flexbox;
