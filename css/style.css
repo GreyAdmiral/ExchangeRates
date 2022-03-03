@@ -9,7 +9,7 @@
 }
 
 body {
-	background: fixed url("../img/money.jpg") 0 0 repeat;
+	background: fixed url("../img/moneyBig.jpg") 0 0 repeat;
 }
 .wrapper {
 	display: -webkit-box;
@@ -170,6 +170,9 @@ body {
 	}
 }
 @media all and (max-width: 768px) {
+	body {
+		background: fixed url("../img/moneySmall.jpg") 0 0 repeat;
+	}
 	.money__table {
 		display: -webkit-box;
 		display: -ms-flexbox;
