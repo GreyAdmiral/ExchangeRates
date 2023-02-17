@@ -3,7 +3,7 @@
   "short_name": "currency",
   "description": "Currency courses in the Republic of Belarus",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "ru-RU",
   "display": "standalone",
   "orientation": "any",
   "start_url": "/?homescreen=1",
